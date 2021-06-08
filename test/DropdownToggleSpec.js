@@ -58,6 +58,6 @@ describe('<DropdownToggle>', () => {
         title="bsClass"
         id="test-id"
       />,
-    ).assertSingle('.my-custom-bsPrefix.btn');
+    ).assertSingle('button.my-custom-bsPrefix.btn');
   });
 });
