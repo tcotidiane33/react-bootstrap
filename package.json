@@ -57,7 +57,7 @@
     "trailingComma": "all"
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.24.1",
     "@restart/context": "^2.1.4",
     "@restart/hooks": "^0.3.26",
     "@types/invariant": "^2.2.33",
