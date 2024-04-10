@@ -61,7 +61,7 @@
     "@restart/context": "^2.1.4",
     "@restart/hooks": "^0.3.26",
     "@types/invariant": "^2.2.33",
-    "@types/prop-types": "^15.7.3",
+    "@types/prop-types": "^15.7.11",
     "@types/react": ">=16.14.8",
     "@types/react-transition-group": "^4.4.1",
     "@types/warning": "^3.0.0",
